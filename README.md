@@ -4,4 +4,4 @@
 
 ## After wins
 
-![Guess Number](./image/After%20win%20the%20game.png)
+![Winner](./image/After_win_the_game.png)
